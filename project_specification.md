@@ -5,8 +5,11 @@ Local AI-Powered Decision Support System
 Initial Group Project Specification
 
 Course: Agentic AI / Decision Support Systems
+
 Project Duration: 9 Weeks
+
 Group Members: Muhammad Tahir, Lesley Muzavazi, and Ndongesit Bassey
+
 Date: 2026-02-22
 
 1. Project Title
